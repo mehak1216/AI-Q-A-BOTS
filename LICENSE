@@ -1,0 +1,11 @@
+---
+
+
+## Next steps I can do for you (pick any):
+- Create a PDF of this report.
+- Create a runnable ZIP with files saved to `/mnt/data` so you can download.
+- Push to a GitHub repo (I can generate the instructions / git commands and a suitable `git init` + commit script).
+- Swap the implementation to use Hugging Face inference instead of OpenAI.
+
+
+Tell me which of the next steps you want and I will do it now.
